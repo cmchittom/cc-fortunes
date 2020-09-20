@@ -1,3 +1,12 @@
+As was said of the Algol language, USENET seems to me a "a great
+improvement on many of its successors." Web forums popped up
+everywhere and then got abanonded as Yahoo-Google-Facebook groups
+rose. I still feel that USENET had better mechanisms for follow-up,
+private reply in email, crossposting, etc that its successors never
+had.
+    --The Rev. Jason Wells <jawells@iceland.freeshell.org>
+      sdf.general, <ri9bsh$5qi$1@odin.sdf-eu.org>
+%
 Father Arseny stopped for a moment, and then said, "You are having a
 heated argument. It has turned sour, even fierce. It is truly
 difficult to live in the camp and we all know how it will end for us.
@@ -29,4 +38,11 @@ faithlessness fell on the soil which we ourselves had prepared."
 
     --"Alexander", _Father Arseny, 1893-1973: Priest, Prisoner,
       Spritual Father_ (Vera Bouteneff, trans.)
+%
+Programming languages should be designed not by piling feature on top
+of feature, but by removing the weaknesses and restrictions that make
+additional features appear necessary.
+
+    --Alex Shinn, et al., ed. _Revised^7 Report on the Algorithmic
+      Language Scheme_, p. 2.
 %
