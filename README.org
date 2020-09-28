@@ -1,0 +1,13 @@
+#+TITLE: Assorted Quotes
+
+* About
+  These are just some quotes I found amusing, found thought-provoking,
+  or just liked, in a format that can be used with ~fortune(6)~.
+
+* Installation
+  1. Run ~strfile assorted~
+  2. Copy ~assorted.dat~ to wherever your ~fortune~ expects, usually
+     ~/usr/share/games/fortune~
+  3. There is no step 3.
+     
+  
