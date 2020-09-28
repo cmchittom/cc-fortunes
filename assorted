@@ -24,7 +24,7 @@ fault? The authorities? No, we are at fault ourselves, we are only
 reaping what we ourselves have sown.
 
 "Let us remember the bad examples set by the intelligentsia, the
-nobility, the merchants, and the civil servants. We in the priesthood
+nobility, the merchants, and the civil servants.  We in the priesthood
 were the worst of them all.
 
 "Children of priests became atheists and revolutionaries, simply
@@ -46,3 +46,41 @@ additional features appear necessary.
     --Alex Shinn, et al., ed. _Revised^7 Report on the Algorithmic
       Language Scheme_, p. 2.
 %
+It should be noted that no ethically-trained software engineer would
+ever consent to write a DestroyBaghdad procedure. Basic professional
+ethics would instead require him to write a DestroyCity procedure, to
+which Baghdad could be given as a parameter.
+
+    --Nathaniel Borenstein (1992)
+%
+In short, I think it's become entirely too easy for people using
+certain programming languages to use libraries from the wide world of
+clowns that is the Internet. Their ecosystems make it very very easy
+to become reliant on this stuff. Trouble is, those libraries are
+frequently shit.
+
+    --Rachel Kroll, "Tripping over the potholes in too many
+      libraries", https://rachelbythebay.com/w/2020/08/09/lib/
+%
+The past is a foreign country:  they do things differently there.
+
+    --L.P. Hartley, _The Go-Between_
+%
+One of the most consistent patterns in business is the failure of
+leading companies to stay at the top their industries when
+technologies or markets change. . . . The pattern of failure has been
+especially striking in the computer industry. IBM dominated the
+mainframe market but missed by years the emergence of minicomputers,
+which were technologically much simpler than mainframes. Digital
+Equipment dominated the minicomputer market with innovations like its
+VAX architecture but missed the personal-computer market almost
+completely. . . .
+
+    --Joseph L. Bower and Clayton M. Christensen, "Disruptive
+      technologies: catching the wave," _Harvard Business Review_,
+      1995
+%
+He who chooses the beginning of a road chooses the place it leads to.
+
+    --Harry Emerson Fosdick, _Living Under Tension_
+    
